@@ -1,7 +1,7 @@
 import React from 'react';
 import * as S from './style';
 
-const index = () => {
+const Footer = () => {
   return (
 
     <S.FooterWrapper>
@@ -13,4 +13,4 @@ const index = () => {
   )
 }
 
-export default index
+export default Footer

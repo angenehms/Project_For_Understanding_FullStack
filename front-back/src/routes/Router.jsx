@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
-import Detail from '../pages/Detail';
-import Content from '../pages/Content';
-import Error from '../pages/Error';
-import Footer from '../components/Footer'
+import Detail from '../pages/Detail/Detail';
+import Content from '../pages/Content/Content';
+import Error from '../pages/Error/Error';
+import Footer from '../components/Footer/Footer'
 
 const Router = () => {
   return (

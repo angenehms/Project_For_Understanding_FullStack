@@ -1,11 +1,11 @@
 import React from 'react'
 
-const index = () => {
+const Content = () => {
   return (
     <div>
-      
+      dfd
     </div>
   )
 }
 
-export default index
+export default Content
