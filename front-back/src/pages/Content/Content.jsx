@@ -3,7 +3,7 @@ import React from 'react'
 const Content = () => {
   return (
     <div>
-      dfd
+      Content
     </div>
   )
 }

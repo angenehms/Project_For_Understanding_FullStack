@@ -3,7 +3,7 @@ import React from 'react'
 const Error = () => {
   return (
     <div>
-      aaㅇㄴㄹㄴㅇㄹ
+      Error
     </div>
   )
 }
